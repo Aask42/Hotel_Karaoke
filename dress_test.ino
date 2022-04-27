@@ -1,6 +1,6 @@
-// Sound Activated EL Wire Costume
+// Sound Activated EL Wire Dress
 // Blink EL Wire to music and other ambient sound.
-//JenFoxBot
+// Aask
 
 #include "arduinoFFT.h" // Standard Arduino FFT library
 
