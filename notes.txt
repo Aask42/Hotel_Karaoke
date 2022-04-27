@@ -1,0 +1,19 @@
+# Things left to do on Mees's dress controller
+
+## Hardware
+
+- [ ] Get correct connectors for EL Wire
+- [ ] Wire up correct connectors in to proper plug (found on the sparkfun website)
+- [ ] Design and print case for EL Sequencer + AC adapter + Battery
+- [ ] Design and print housing for microphone module
+- [ ] Get cable for microphone module to allow for secure lapel functionality
+- [ ] Get better AC Inverter for low power application
+
+## Code
+
+- [ ] Test with multiple volumes besides 3
+- [ ] Experiment with PWM instead of using EL Wire sequencer
+- [ ] Tune variables for Meee's voice
+- [x] Create github repository and get code backed up
+- [ ] Comment code
+- [ ] Optimize code
